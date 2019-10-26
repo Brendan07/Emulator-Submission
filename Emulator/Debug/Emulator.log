@@ -1,0 +1,54 @@
+﻿  Emulator.cpp
+h:\emulator99\emulator\emulator\emulator.cpp(475): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(536): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(597): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(822): warning C4333: '>>': right shift by too large amount, data loss
+h:\emulator99\emulator\emulator\emulator.cpp(834): warning C4333: '>>': right shift by too large amount, data loss
+h:\emulator99\emulator\emulator\emulator.cpp(846): warning C4333: '>>': right shift by too large amount, data loss
+h:\emulator99\emulator\emulator\emulator.cpp(859): warning C4333: '>>': right shift by too large amount, data loss
+h:\emulator99\emulator\emulator\emulator.cpp(868): warning C4333: '>>': right shift by too large amount, data loss
+h:\emulator99\emulator\emulator\emulator.cpp(877): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(883): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(889): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(895): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(915): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(916): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(927): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(928): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(939): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(940): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(951): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(952): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(960): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(961): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(2124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+h:\emulator99\emulator\emulator\emulator.cpp(2138): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+h:\emulator99\emulator\emulator\emulator.cpp(2207): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(2216): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+h:\emulator99\emulator\emulator\emulator.cpp(2294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+h:\emulator99\emulator\emulator\emulator.cpp(2300): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2302): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2328): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+h:\emulator99\emulator\emulator\emulator.cpp(2367): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+h:\emulator99\emulator\emulator\emulator.cpp(2377): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2381): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2421): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2423): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+h:\emulator99\emulator\emulator\emulator.cpp(2448): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+h:\emulator99\emulator\emulator\emulator.cpp(2492): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+h:\emulator99\emulator\emulator\emulator.cpp(2497): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+  Emulator.vcxproj -> H:\Emulator99\Emulator\Debug\Emulator.exe
